@@ -1,10 +1,10 @@
 # Apify Actor Portfolio
 
-57 production actors for web scraping, lead generation, AI analysis, and data enrichment. 869+ users across Apify Store and RapidAPI.
+66 production actors for web scraping, lead generation, AI analysis, and data enrichment. 900+ users across Apify Store and RapidAPI.
 
 [![Apify Store](https://img.shields.io/badge/Apify%20Store-george.the.developer-blue)](https://apify.com/george.the.developer)
-[![Actors](https://img.shields.io/badge/actors-57-green)]()
-[![Users](https://img.shields.io/badge/users-869+-orange)]()
+[![Actors](https://img.shields.io/badge/actors-66-green)]()
+[![Users](https://img.shields.io/badge/users-900+-orange)]()
 
 ## How It Works
 
@@ -161,6 +161,23 @@ console.log(`Found ${items.length} dental practices`);
     }
 }
 ```
+
+
+## New in May 2026
+
+Seven new actors shipped in the May 11 to 12 sprint. All Standby APIs with pay per event pricing. Pricing activates 2026-05-26 (sprint #1, 5 actors) and 2026-05-27 (sprint #2, 2 actors).
+
+| Actor | Store | What it does | Pricing |
+|-------|-------|--------------|---------|
+| Hospital Price Transparency MRF Normalizer | [apify](https://apify.com/george-the-developer/hospital-mrf-normalizer) | CMS MRF files normalized into payer + code + rate rows | $0.50 + $0.002/row + $0.02/bundle |
+| MCP Server Registry and Security Scorer | [apify](https://apify.com/george-the-developer/mcp-server-registry-scorer) | Anthropic registry + npm + GitHub joined with deterministic risk score | $0.50 + $0.025/profile + $0.15/scan |
+| FDA Warning Letter and Enforcement Monitor | [apify](https://apify.com/george-the-developer/fda-warning-letter-monitor) | FDA letters classified by topic with company risk briefs | $1 + $0.30/letter + $1.50/brief |
+| Clinical Trial Investigator and Site Intelligence | [apify](https://apify.com/george-the-developer/clinical-trial-investigator-intel) | ClinicalTrials.gov + NPI + OpenPayments joined with site fit scoring | $1 + $0.10/investigator + $0.50/site |
+| Federal Contract Opportunity Monitor | [apify](https://apify.com/george-the-developer/federal-contract-opportunity-monitor) | SAM.gov + USAspending normalized with topic tagging and partnership leads | $1 + $0.10/opportunity + $0.50/lead |
+| LLM Provider Price and Latency Monitor | [apify](https://apify.com/george-the-developer/llm-provider-price-latency-monitor) | OpenRouter + provider pages normalized for 200+ models with cross provider benchmarks | $0.50 + $0.025/snapshot + $0.15/benchmark |
+| Multi City Building Permit Aggregator | [apify](https://apify.com/george-the-developer/multi-city-building-permit-aggregator) | NYC + Chicago open data portals normalized into one permit schema | $1 + $0.05/permit + $0.30/contractor roundup |
+
+Docs and examples for each are at github.com/the-ai-entrepreneur-ai-hub.
 
 ## Use Cases
 
