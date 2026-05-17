@@ -1,9 +1,9 @@
 # Apify Actor Portfolio
 
-66 production actors for web scraping, lead generation, AI analysis, and data enrichment. 900+ users across Apify Store and RapidAPI.
+67 production actors for web scraping, lead generation, AI analysis, and data enrichment. 900+ users across Apify Store and RapidAPI.
 
 [![Apify Store](https://img.shields.io/badge/Apify%20Store-george.the.developer-blue)](https://apify.com/george.the.developer)
-[![Actors](https://img.shields.io/badge/actors-66-green)]()
+[![Actors](https://img.shields.io/badge/actors-67-green)]()
 [![Users](https://img.shields.io/badge/users-900+-orange)]()
 
 ## How It Works
@@ -165,7 +165,7 @@ console.log(`Found ${items.length} dental practices`);
 
 ## New in May 2026
 
-Seven new actors shipped in the May 11 to 12 sprint. All Standby APIs with pay per event pricing. Pricing activates 2026-05-26 (sprint #1, 5 actors) and 2026-05-27 (sprint #2, 2 actors).
+Eight new actors shipped in the May 11 to 12 sprint. All Standby APIs with pay per event pricing. Pricing activates 2026-05-26 (sprint #1, 6 actors) and 2026-05-27 (sprint #2, 2 actors).
 
 | Actor | Store | What it does | Pricing |
 |-------|-------|--------------|---------|
@@ -176,6 +176,7 @@ Seven new actors shipped in the May 11 to 12 sprint. All Standby APIs with pay p
 | Federal Contract Opportunity Monitor | [apify](https://apify.com/george-the-developer/federal-contract-opportunity-monitor) | SAM.gov + USAspending normalized with topic tagging and partnership leads | $1 + $0.10/opportunity + $0.50/lead |
 | LLM Provider Price and Latency Monitor | [apify](https://apify.com/george-the-developer/llm-provider-price-latency-monitor) | OpenRouter + provider pages normalized for 200+ models with cross provider benchmarks | $0.50 + $0.025/snapshot + $0.15/benchmark |
 | Multi City Building Permit Aggregator | [apify](https://apify.com/george-the-developer/multi-city-building-permit-aggregator) | NYC + Chicago open data portals normalized into one permit schema | $1 + $0.05/permit + $0.30/contractor roundup |
+| GLP-1 Pharmacy Price and Availability Tracker | [apify](https://apify.com/george-the-developer/glp1-pharmacy-availability-tracker) | Cost Plus Drugs + openFDA shortage data normalized into per-drug-per-pharmacy rows | $0.50 + $0.05/price-row + $0.25/availability-alert |
 
 Docs and examples for each are at github.com/the-ai-entrepreneur-ai-hub.
 
