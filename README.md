@@ -165,7 +165,7 @@ console.log(`Found ${items.length} dental practices`);
 
 ## New in May 2026
 
-Eight new actors shipped in the May 11 to 12 sprint. All Standby APIs with pay per event pricing. Pricing activates 2026-05-26 (sprint #1, 6 actors) and 2026-05-27 (sprint #2, 2 actors).
+Nine new actors shipped in May 2026. All Standby APIs with pay per event pricing. Pricing activates 2026-05-26 (sprint #1, 6 actors), 2026-05-27 (sprint #2, 2 actors), and 2026-05-29 (js-content-crawler-lite-rag).
 
 | Actor | Store | What it does | Pricing |
 |-------|-------|--------------|---------|
@@ -177,8 +177,11 @@ Eight new actors shipped in the May 11 to 12 sprint. All Standby APIs with pay p
 | LLM Provider Price and Latency Monitor | [apify](https://apify.com/george-the-developer/llm-provider-price-latency-monitor) | OpenRouter + provider pages normalized for 200+ models with cross provider benchmarks | $0.50 + $0.025/snapshot + $0.15/benchmark |
 | Multi City Building Permit Aggregator | [apify](https://apify.com/george-the-developer/multi-city-building-permit-aggregator) | NYC + Chicago open data portals normalized into one permit schema | $1 + $0.05/permit + $0.30/contractor roundup |
 | GLP-1 Pharmacy Price and Availability Tracker | [apify](https://apify.com/george-the-developer/glp1-pharmacy-availability-tracker) | Cost Plus Drugs + openFDA shortage data normalized into per-drug-per-pharmacy rows | $0.50 + $0.05/price-row + $0.25/availability-alert |
+| JS Content Crawler Lite for RAG | [apify](https://apify.com/george.the.developer/js-content-crawler-lite-rag) | Static-first web content extraction with optional Browserless rendering. Returns clean Markdown plus 16 other fields per URL. Built for RAG ingestion. | $0.005/static page-extracted + $0.015/js-page-rendered |
 
-Docs and examples for each are at github.com/the-ai-entrepreneur-ai-hub.
+Docs and examples for each are at github.com/the-ai-entrepreneur-ai-hub. The js-content-crawler-lite-rag docs live at [js-content-crawler-lite-rag-docs](https://github.com/the-ai-entrepreneur-ai-hub/js-content-crawler-lite-rag-docs).
+
+The render mode uses the same Browserless-on-VPS infrastructure as other render-mode actors, proxied via nginx HTTPS termination at georgegotls.duckdns.org.
 
 ## Use Cases
 
