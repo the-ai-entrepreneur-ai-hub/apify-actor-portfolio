@@ -6,6 +6,23 @@
 [![Actors](https://img.shields.io/badge/actors-67-green)]()
 [![Users](https://img.shields.io/badge/users-900+-orange)]()
 
+## Most used actors
+
+These are the proven earners. Real adoption numbers pulled from the Apify Store, sorted by how much they actually get used.
+
+| Actor | Users | Runs | Store |
+|-------|-------|------|-------|
+| LinkedIn Company Employee Scraper | 1,300 | 17,185 | [apify](https://apify.com/george.the.developer/linkedin-company-employees-scraper) |
+| YouTube Transcript Scraper | 352 | 4,080 | [apify](https://apify.com/george.the.developer/youtube-transcript-scraper) |
+| Telegram Channel Scraper | 116 | | [apify](https://apify.com/george.the.developer/telegram-channel-scraper) |
+| Company Enrichment API | 92 | 5,588 | [apify](https://apify.com/george.the.developer/company-enrichment-api) |
+| Google Scholar Scraper | 82 | 5,606 | [apify](https://apify.com/george.the.developer/google-scholar-scraper) |
+| Google News Monitor | 51 | | [apify](https://apify.com/george.the.developer/google-news-monitor) |
+| Domain WHOIS Lookup | | 11,648 | [apify](https://apify.com/george.the.developer/domain-whois-lookup) |
+| AI Content Detector | 19 | 3,017 | [apify](https://apify.com/george.the.developer/ai-content-detector) |
+
+The AI Content Detector is the one to watch. 19 users but 3,017 runs, so roughly 160 runs per user. That is not a human clicking a button. Someone wired it into a pipeline and now calls it on every piece of text that flows through their product.
+
 ## How It Works
 
 ```mermaid
@@ -179,9 +196,33 @@ Nine new actors shipped in May 2026. All Standby APIs with pay per event pricing
 | GLP-1 Pharmacy Price and Availability Tracker | [apify](https://apify.com/george-the-developer/glp1-pharmacy-availability-tracker) | Cost Plus Drugs + openFDA shortage data normalized into per-drug-per-pharmacy rows | $0.50 + $0.05/price-row + $0.25/availability-alert |
 | JS Content Crawler Lite for RAG | [apify](https://apify.com/george.the.developer/js-content-crawler-lite-rag) | Static-first web content extraction with optional Browserless rendering. Returns clean Markdown plus 16 other fields per URL. Built for RAG ingestion. | $0.005/static page-extracted + $0.015/js-page-rendered |
 
-Docs and examples for each are at github.com/the-ai-entrepreneur-ai-hub. The js-content-crawler-lite-rag docs live at [js-content-crawler-lite-rag-docs](https://github.com/the-ai-entrepreneur-ai-hub/js-content-crawler-lite-rag-docs).
-
 The render mode uses the same Browserless-on-VPS infrastructure as other render-mode actors, proxied via nginx HTTPS termination at georgegotls.duckdns.org.
+
+## Docs and examples
+
+Each actor has a companion docs repo with input schemas, output samples, and runnable examples. They cross-link back here.
+
+- [nhtsa-recall-monitor-docs](https://github.com/the-ai-entrepreneur-ai-hub/nhtsa-recall-monitor-docs)
+- [npi-provider-lookup-docs](https://github.com/the-ai-entrepreneur-ai-hub/npi-provider-lookup-docs)
+- [federal-register-monitor-docs](https://github.com/the-ai-entrepreneur-ai-hub/federal-register-monitor-docs)
+- [js-content-crawler-lite-rag-docs](https://github.com/the-ai-entrepreneur-ai-hub/js-content-crawler-lite-rag-docs)
+- [physician-directory-npi-docs](https://github.com/the-ai-entrepreneur-ai-hub/physician-directory-npi-docs)
+- [hospital-mrf-normalizer-docs](https://github.com/the-ai-entrepreneur-ai-hub/hospital-mrf-normalizer-docs)
+- [mcp-server-registry-scorer-docs](https://github.com/the-ai-entrepreneur-ai-hub/mcp-server-registry-scorer-docs)
+- [fda-warning-letter-monitor-docs](https://github.com/the-ai-entrepreneur-ai-hub/fda-warning-letter-monitor-docs)
+- [clinical-trial-investigator-intel-docs](https://github.com/the-ai-entrepreneur-ai-hub/clinical-trial-investigator-intel-docs)
+- [federal-contract-opportunity-monitor-docs](https://github.com/the-ai-entrepreneur-ai-hub/federal-contract-opportunity-monitor-docs)
+- [llm-provider-price-latency-monitor-docs](https://github.com/the-ai-entrepreneur-ai-hub/llm-provider-price-latency-monitor-docs)
+- [multi-city-building-permit-aggregator-docs](https://github.com/the-ai-entrepreneur-ai-hub/multi-city-building-permit-aggregator-docs)
+- [glp1-pharmacy-availability-tracker-docs](https://github.com/the-ai-entrepreneur-ai-hub/glp1-pharmacy-availability-tracker-docs)
+- [funded-startup-tracker-docs](https://github.com/the-ai-entrepreneur-ai-hub/funded-startup-tracker-docs)
+- [ats-hire-trigger-intent-scraper-docs](https://github.com/the-ai-entrepreneur-ai-hub/ats-hire-trigger-intent-scraper-docs)
+- [shopify-dtc-brand-discovery-docs](https://github.com/the-ai-entrepreneur-ai-hub/shopify-dtc-brand-discovery-docs)
+- [property-tax-delinquent-leads-docs](https://github.com/the-ai-entrepreneur-ai-hub/property-tax-delinquent-leads-docs)
+- [obituary-life-insurance-leads-docs](https://github.com/the-ai-entrepreneur-ai-hub/obituary-life-insurance-leads-docs)
+- [url-metadata-extractor-docs](https://github.com/the-ai-entrepreneur-ai-hub/url-metadata-extractor-docs)
+- [ai-content-detector-docs](https://github.com/the-ai-entrepreneur-ai-hub/ai-content-detector-docs)
+- [domain-whois-lookup-docs](https://github.com/the-ai-entrepreneur-ai-hub/domain-whois-lookup-docs)
 
 ## Use Cases
 
