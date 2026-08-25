@@ -2,7 +2,7 @@
 
 67 production actors for web scraping, lead generation, AI analysis, and data enrichment. 900+ users across Apify Store and RapidAPI.
 
-[![Apify Store](https://img.shields.io/badge/Apify%20Store-george.the.developer-blue)](https://apify.com/george.the.developer)
+[![Apify Store](https://img.shields.io/badge/Apify%20Store-george.the.developer-blue)](https://apify.com/george.the.developer?fpr=bbquoh)
 [![Actors](https://img.shields.io/badge/actors-67-green)]()
 [![Users](https://img.shields.io/badge/users-900+-orange)]()
 
@@ -12,14 +12,14 @@ These are the proven earners. Real adoption numbers pulled from the Apify Store,
 
 | Actor | Users | Runs | Store |
 |-------|-------|------|-------|
-| LinkedIn Company Employee Scraper | 1,300 | 17,185 | [apify](https://apify.com/george.the.developer/linkedin-company-employees-scraper) |
-| YouTube Transcript Scraper | 352 | 4,080 | [apify](https://apify.com/george.the.developer/youtube-transcript-scraper) |
-| Telegram Channel Scraper | 116 | | [apify](https://apify.com/george.the.developer/telegram-channel-scraper) |
-| Company Enrichment API | 92 | 5,588 | [apify](https://apify.com/george.the.developer/company-enrichment-api) |
-| Google Scholar Scraper | 82 | 5,606 | [apify](https://apify.com/george.the.developer/google-scholar-scraper) |
-| Google News Monitor | 51 | | [apify](https://apify.com/george.the.developer/google-news-monitor) |
-| Domain WHOIS Lookup | | 11,648 | [apify](https://apify.com/george.the.developer/domain-whois-lookup) |
-| AI Content Detector | 19 | 3,017 | [apify](https://apify.com/george.the.developer/ai-content-detector) |
+| LinkedIn Company Employee Scraper | 1,300 | 17,185 | [apify](https://apify.com/george.the.developer/linkedin-company-employees-scraper?fpr=bbquoh) |
+| YouTube Transcript Scraper | 352 | 4,080 | [apify](https://apify.com/george.the.developer/youtube-transcript-scraper?fpr=bbquoh) |
+| Telegram Channel Scraper | 116 | | [apify](https://apify.com/george.the.developer/telegram-channel-scraper?fpr=bbquoh) |
+| Company Enrichment API | 92 | 5,588 | [apify](https://apify.com/george.the.developer/company-enrichment-api?fpr=bbquoh) |
+| Google Scholar Scraper | 82 | 5,606 | [apify](https://apify.com/george.the.developer/google-scholar-scraper?fpr=bbquoh) |
+| Google News Monitor | 51 | | [apify](https://apify.com/george.the.developer/google-news-monitor?fpr=bbquoh) |
+| Domain WHOIS Lookup | | 11,648 | [apify](https://apify.com/george.the.developer/domain-whois-lookup?fpr=bbquoh) |
+| AI Content Detector | 19 | 3,017 | [apify](https://apify.com/george.the.developer/ai-content-detector?fpr=bbquoh) |
 
 The AI Content Detector is the one to watch. 19 users but 3,017 runs, so roughly 160 runs per user. That is not a human clicking a button. Someone wired it into a pipeline and now calls it on every piece of text that flows through their product.
 
@@ -68,11 +68,11 @@ graph TD
 
 | Actor | Price | What You Get |
 |-------|-------|-------------|
-| [Google Maps Lead Intel](https://apify.com/george.the.developer/google-maps-lead-intel) | $39/search | 20 businesses with phone, email, website, social, lead score |
-| [Dental Practice Finder](https://apify.com/george.the.developer/dental-practice-lead-finder) | $39/search | Dental practices with patient acquisition scoring |
-| [Law Firm Finder](https://apify.com/george.the.developer/law-firm-lead-finder) | $39/search | Law firms with legal marketing scoring |
-| [HVAC Contractor Finder](https://apify.com/george.the.developer/hvac-contractor-lead-finder) | $29/search | HVAC contractors with home services scoring |
-| [Restaurant Finder](https://apify.com/george.the.developer/restaurant-lead-finder) | $25/search | Restaurants with F&B marketing scoring |
+| [Google Maps Lead Intel](https://apify.com/george.the.developer/google-maps-lead-intel?fpr=bbquoh) | $39/search | 20 businesses with phone, email, website, social, lead score |
+| [Dental Practice Finder](https://apify.com/george.the.developer/dental-practice-lead-finder?fpr=bbquoh) | $39/search | Dental practices with patient acquisition scoring |
+| [Law Firm Finder](https://apify.com/george.the.developer/law-firm-lead-finder?fpr=bbquoh) | $39/search | Law firms with legal marketing scoring |
+| [HVAC Contractor Finder](https://apify.com/george.the.developer/hvac-contractor-lead-finder?fpr=bbquoh) | $29/search | HVAC contractors with home services scoring |
+| [Restaurant Finder](https://apify.com/george.the.developer/restaurant-lead-finder?fpr=bbquoh) | $25/search | Restaurants with F&B marketing scoring |
 
 ### Influencer Marketing
 
@@ -95,7 +95,7 @@ sequenceDiagram
 
 | Actor | Price | What You Get |
 |-------|-------|-------------|
-| [Influencer Marketing Intelligence](https://apify.com/george.the.developer/influencer-marketing-intel) | $0.01/profile | Real names, follower counts, bios, emails across IG/TikTok/YT |
+| [Influencer Marketing Intelligence](https://apify.com/george.the.developer/influencer-marketing-intel?fpr=bbquoh) | $0.01/profile | Real names, follower counts, bios, emails across IG/TikTok/YT |
 
 ### AI Analysis APIs
 
@@ -103,39 +103,39 @@ Instant response APIs for text analysis and content detection.
 
 | Actor | Price | What It Does |
 |-------|-------|-------------|
-| [AI Content Detector](https://apify.com/george.the.developer/ai-content-detector) | $0.003/text | Detect AI generated text with hybrid statistical + LLM analysis |
-| [AI Text Humanizer](https://apify.com/george.the.developer/ai-text-humanizer-api) | $0.003/text | Rewrite AI text to pass detection |
-| [Sentiment Analysis](https://apify.com/george.the.developer/sentiment-analysis-api) | $0.003/text | Multilingual sentiment with emotion detection |
+| [AI Content Detector](https://apify.com/george.the.developer/ai-content-detector?fpr=bbquoh) | $0.003/text | Detect AI generated text with hybrid statistical + LLM analysis |
+| [AI Text Humanizer](https://apify.com/george.the.developer/ai-text-humanizer-api?fpr=bbquoh) | $0.003/text | Rewrite AI text to pass detection |
+| [Sentiment Analysis](https://apify.com/george.the.developer/sentiment-analysis-api?fpr=bbquoh) | $0.003/text | Multilingual sentiment with emotion detection |
 
 ### Data Enrichment APIs
 
 | Actor | Price | What It Does |
 |-------|-------|-------------|
-| [Email Validator](https://apify.com/george.the.developer/email-validator-api) | $0.002/email | SMTP verification, disposable detection, scoring |
-| [Company Enrichment](https://apify.com/george.the.developer/company-enrichment-api) | $0.01/company | Tech stack, social profiles, contacts, DNS |
-| [Website Intelligence](https://apify.com/george.the.developer/website-intelligence-api) | $0.005/site | SEO score, tech detection, metadata |
-| [Domain WHOIS](https://apify.com/george.the.developer/domain-whois-lookup) | $0.005/domain | WHOIS + DNS records |
-| [URL Metadata](https://apify.com/george.the.developer/url-metadata-extractor) | $0.003/url | OG tags, meta, structured data |
+| [Email Validator](https://apify.com/george.the.developer/email-validator-api?fpr=bbquoh) | $0.002/email | SMTP verification, disposable detection, scoring |
+| [Company Enrichment](https://apify.com/george.the.developer/company-enrichment-api?fpr=bbquoh) | $0.01/company | Tech stack, social profiles, contacts, DNS |
+| [Website Intelligence](https://apify.com/george.the.developer/website-intelligence-api?fpr=bbquoh) | $0.005/site | SEO score, tech detection, metadata |
+| [Domain WHOIS](https://apify.com/george.the.developer/domain-whois-lookup?fpr=bbquoh) | $0.005/domain | WHOIS + DNS records |
+| [URL Metadata](https://apify.com/george.the.developer/url-metadata-extractor?fpr=bbquoh) | $0.003/url | OG tags, meta, structured data |
 
 ### Web Scrapers
 
 | Actor | Price | Target |
 |-------|-------|--------|
-| [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-company-employees-scraper) | $0.005/profile | Employee data without login |
-| [YouTube Transcript](https://apify.com/george.the.developer/youtube-transcript-scraper) | $0.004/video | Video transcripts for RAG/search |
-| [Google Scholar](https://apify.com/george.the.developer/google-scholar-scraper) | $0.004/paper | Academic papers and citations |
-| [Telegram Channel](https://apify.com/george.the.developer/telegram-channel-scraper) | $0.003/message | Channel messages and media |
-| [Threads by Meta](https://apify.com/george.the.developer/threads-scraper) | $0.004/post | Threads posts and profiles |
-| [Google News](https://apify.com/george.the.developer/google-news-brand-monitor) | $0.003/article | News monitoring by keyword |
-| [Bluesky](https://apify.com/george.the.developer/bluesky-scraper) | $0.003/post | AT Protocol posts and profiles |
+| [LinkedIn Employee Scraper](https://apify.com/george.the.developer/linkedin-company-employees-scraper?fpr=bbquoh) | $0.005/profile | Employee data without login |
+| [YouTube Transcript](https://apify.com/george.the.developer/youtube-transcript-scraper?fpr=bbquoh) | $0.004/video | Video transcripts for RAG/search |
+| [Google Scholar](https://apify.com/george.the.developer/google-scholar-scraper?fpr=bbquoh) | $0.004/paper | Academic papers and citations |
+| [Telegram Channel](https://apify.com/george.the.developer/telegram-channel-scraper?fpr=bbquoh) | $0.003/message | Channel messages and media |
+| [Threads by Meta](https://apify.com/george.the.developer/threads-scraper?fpr=bbquoh) | $0.004/post | Threads posts and profiles |
+| [Google News](https://apify.com/george.the.developer/google-news-brand-monitor?fpr=bbquoh) | $0.003/article | News monitoring by keyword |
+| [Bluesky](https://apify.com/george.the.developer/bluesky-scraper?fpr=bbquoh) | $0.003/post | AT Protocol posts and profiles |
 
 ### Compliance & Intelligence
 
 | Actor | Price | What It Does |
 |-------|-------|-------------|
-| [OFAC Sanctions Screener](https://apify.com/george.the.developer/ofac-sanctions-screener) | $0.01/entity | SDN list screening with fuzzy matching |
-| [Entity OSINT Enricher](https://apify.com/george.the.developer/entity-osint-enricher) | $0.025/entity | Multi source entity intelligence |
-| [US Tariff Lookup](https://apify.com/george.the.developer/us-tariff-hs-code-lookup) | $0.005/lookup | HS code tariff rates by country |
+| [OFAC Sanctions Screener](https://apify.com/george.the.developer/ofac-sanctions-screener?fpr=bbquoh) | $0.01/entity | SDN list screening with fuzzy matching |
+| [Entity OSINT Enricher](https://apify.com/george.the.developer/entity-osint-enricher?fpr=bbquoh) | $0.025/entity | Multi source entity intelligence |
+| [US Tariff Lookup](https://apify.com/george.the.developer/us-tariff-hs-code-lookup?fpr=bbquoh) | $0.005/lookup | HS code tariff rates by country |
 
 ## Quick Start
 
@@ -186,15 +186,15 @@ Nine new actors shipped in May 2026. All Standby APIs with pay per event pricing
 
 | Actor | Store | What it does | Pricing |
 |-------|-------|--------------|---------|
-| Hospital Price Transparency MRF Normalizer | [apify](https://apify.com/george-the-developer/hospital-mrf-normalizer) | CMS MRF files normalized into payer + code + rate rows | $0.50 + $0.002/row + $0.02/bundle |
-| MCP Server Registry and Security Scorer | [apify](https://apify.com/george-the-developer/mcp-server-registry-scorer) | Anthropic registry + npm + GitHub joined with deterministic risk score | $0.50 + $0.025/profile + $0.15/scan |
-| FDA Warning Letter and Enforcement Monitor | [apify](https://apify.com/george-the-developer/fda-warning-letter-monitor) | FDA letters classified by topic with company risk briefs | $1 + $0.30/letter + $1.50/brief |
-| Clinical Trial Investigator and Site Intelligence | [apify](https://apify.com/george-the-developer/clinical-trial-investigator-intel) | ClinicalTrials.gov + NPI + OpenPayments joined with site fit scoring | $1 + $0.10/investigator + $0.50/site |
-| Federal Contract Opportunity Monitor | [apify](https://apify.com/george-the-developer/federal-contract-opportunity-monitor) | SAM.gov + USAspending normalized with topic tagging and partnership leads | $1 + $0.10/opportunity + $0.50/lead |
-| LLM Provider Price and Latency Monitor | [apify](https://apify.com/george-the-developer/llm-provider-price-latency-monitor) | OpenRouter + provider pages normalized for 200+ models with cross provider benchmarks | $0.50 + $0.025/snapshot + $0.15/benchmark |
-| Multi City Building Permit Aggregator | [apify](https://apify.com/george-the-developer/multi-city-building-permit-aggregator) | NYC + Chicago open data portals normalized into one permit schema | $1 + $0.05/permit + $0.30/contractor roundup |
-| GLP-1 Pharmacy Price and Availability Tracker | [apify](https://apify.com/george-the-developer/glp1-pharmacy-availability-tracker) | Cost Plus Drugs + openFDA shortage data normalized into per-drug-per-pharmacy rows | $0.50 + $0.05/price-row + $0.25/availability-alert |
-| JS Content Crawler Lite for RAG | [apify](https://apify.com/george.the.developer/js-content-crawler-lite-rag) | Static-first web content extraction with optional Browserless rendering. Returns clean Markdown plus 16 other fields per URL. Built for RAG ingestion. | $0.005/static page-extracted + $0.015/js-page-rendered |
+| Hospital Price Transparency MRF Normalizer | [apify](https://apify.com/george.the.developer/hospital-mrf-normalizer?fpr=bbquoh) | CMS MRF files normalized into payer + code + rate rows | $0.50 + $0.002/row + $0.02/bundle |
+| MCP Server Registry and Security Scorer | [apify](https://apify.com/george.the.developer/mcp-server-registry-scorer?fpr=bbquoh) | Anthropic registry + npm + GitHub joined with deterministic risk score | $0.50 + $0.025/profile + $0.15/scan |
+| FDA Warning Letter and Enforcement Monitor | [apify](https://apify.com/george.the.developer/fda-warning-letter-monitor?fpr=bbquoh) | FDA letters classified by topic with company risk briefs | $1 + $0.30/letter + $1.50/brief |
+| Clinical Trial Investigator and Site Intelligence | [apify](https://apify.com/george.the.developer/clinical-trial-investigator-intel?fpr=bbquoh) | ClinicalTrials.gov + NPI + OpenPayments joined with site fit scoring | $1 + $0.10/investigator + $0.50/site |
+| Federal Contract Opportunity Monitor | [apify](https://apify.com/george.the.developer/federal-contract-opportunity-monitor?fpr=bbquoh) | SAM.gov + USAspending normalized with topic tagging and partnership leads | $1 + $0.10/opportunity + $0.50/lead |
+| LLM Provider Price and Latency Monitor | [apify](https://apify.com/george.the.developer/llm-provider-price-latency-monitor?fpr=bbquoh) | OpenRouter + provider pages normalized for 200+ models with cross provider benchmarks | $0.50 + $0.025/snapshot + $0.15/benchmark |
+| Multi City Building Permit Aggregator | [apify](https://apify.com/george.the.developer/multi-city-building-permit-aggregator?fpr=bbquoh) | NYC + Chicago open data portals normalized into one permit schema | $1 + $0.05/permit + $0.30/contractor roundup |
+| GLP-1 Pharmacy Price and Availability Tracker | [apify](https://apify.com/george.the.developer/glp1-pharmacy-availability-tracker?fpr=bbquoh) | Cost Plus Drugs + openFDA shortage data normalized into per-drug-per-pharmacy rows | $0.50 + $0.05/price-row + $0.25/availability-alert |
+| JS Content Crawler Lite for RAG | [apify](https://apify.com/george.the.developer/js-content-crawler-lite-rag?fpr=bbquoh) | Static-first web content extraction with optional Browserless rendering. Returns clean Markdown plus 16 other fields per URL. Built for RAG ingestion. | $0.005/static page-extracted + $0.015/js-page-rendered |
 
 The render mode uses the same Browserless-on-VPS infrastructure as other render-mode actors, proxied via nginx HTTPS termination at georgegotls.duckdns.org.
 
@@ -242,4 +242,4 @@ All API actors are also available on [RapidAPI](https://rapidapi.com/georgethede
 
 ## Contact
 
-Questions or custom requirements? Reach out on [Apify Store](https://apify.com/george.the.developer) or [@ai_in_it on X](https://x.com/ai_in_it).
+Questions or custom requirements? Reach out on [Apify Store](https://apify.com/george.the.developer?fpr=bbquoh) or [@ai_in_it on X](https://x.com/ai_in_it).

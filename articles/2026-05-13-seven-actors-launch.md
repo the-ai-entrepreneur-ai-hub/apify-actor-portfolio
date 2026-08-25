@@ -7,7 +7,7 @@ Each one targets a specific buyer category with a real budget. Not generic scrap
 
 ## 1. Hospital Price Transparency MRF Normalizer
 
-[Store link](https://apify.com/george-the-developer/hospital-mrf-normalizer)
+[Store link](https://apify.com/george.the.developer/hospital-mrf-normalizer?fpr=bbquoh)
 
 CMS enforcement of the hospital price transparency rule tightened in April 2026. Every US hospital publishes a machine readable file of negotiated rates by payer and procedure, but the files are gigantic and inconsistent. CMS v2 JSON, CMS v3 JSON, CSV with column drift between hospitals.
 
@@ -21,7 +21,7 @@ Buyers: health cost transparency platforms (Amino, Cedar, Healthcare Bluebook), 
 
 ## 2. MCP Server Registry and Security Scorer
 
-[Store link](https://apify.com/george-the-developer/mcp-server-registry-scorer)
+[Store link](https://apify.com/george.the.developer/mcp-server-registry-scorer?fpr=bbquoh)
 
 Anthropic Model Context Protocol exploded past 22,000 servers indexed on Glama. Agent platforms admitting MCP servers do it by README and stars and hope.
 
@@ -37,7 +37,7 @@ Buyers: agent platform admission control (Docker MCP Toolkit, Cursor, Continue, 
 
 ## 3. FDA Warning Letter and Enforcement Monitor
 
-[Store link](https://apify.com/george-the-developer/fda-warning-letter-monitor)
+[Store link](https://apify.com/george.the.developer/fda-warning-letter-monitor?fpr=bbquoh)
 
 FDA published warning letters on a static index page that everyone in regulated industries needs to read but nobody wants to scrape. The April 2026 GLP-1 and telehealth enforcement push made this even more urgent.
 
@@ -51,7 +51,7 @@ Buyers: FDA consultants (Redica, Greenleaf Health, ProPharma, RQM Plus, The FDA 
 
 ## 4. Clinical Trial Investigator and Site Intelligence
 
-[Store link](https://apify.com/george-the-developer/clinical-trial-investigator-intel)
+[Store link](https://apify.com/george.the.developer/clinical-trial-investigator-intel?fpr=bbquoh)
 
 CROs and sponsors at any scale rebuild the same data join for every new study. ClinicalTrials.gov plus NPI Registry plus OpenPayments plus PubMed publication count plus geo cluster of sites. The data is public, the join is mechanical, but everyone rebuilds it in a half maintained Python script.
 
@@ -65,7 +65,7 @@ Buyers: top 5 CROs (IQVIA, ICON, Parexel, Medidata, Veeva), clinical site networ
 
 ## 5. Federal Contract Opportunity Monitor
 
-[Store link](https://apify.com/george-the-developer/federal-contract-opportunity-monitor)
+[Store link](https://apify.com/george.the.developer/federal-contract-opportunity-monitor?fpr=bbquoh)
 
 SAM.gov publishes federal contract opportunities hourly. USAspending publishes awarded contracts with recipient data. Joining them and tagging by topic is the daily grind for federal sales teams and GovCon advisors. Bloomberg Government and Govini do this at enterprise pricing.
 
@@ -79,7 +79,7 @@ Buyers: GovCon advisors (Govini, Deltek, EZGovOpps), federal sales teams at MSPs
 
 ## 6. LLM Provider Price and Latency Monitor
 
-[Store link](https://apify.com/george-the-developer/llm-provider-price-latency-monitor)
+[Store link](https://apify.com/george.the.developer/llm-provider-price-latency-monitor?fpr=bbquoh)
 
 LLM gateways and agent platforms route across 5 to 10 providers. Pricing changes weekly. OpenRouter aggregates in a UI but does not publish it as a clean JSON ingestion feed. Most teams maintain their own scraper.
 
@@ -95,7 +95,7 @@ Buyers: LLM gateway operators (Portkey, Helicone, LiteLLM), agent platform model
 
 ## 7. Multi City Building Permit Aggregator
 
-[Store link](https://apify.com/george-the-developer/multi-city-building-permit-aggregator)
+[Store link](https://apify.com/george.the.developer/multi-city-building-permit-aggregator?fpr=bbquoh)
 
 Each US city publishes building permit data in its own JSON shape. NYC moved their authoritative feed from the old DOB Issuance dataset to DOB NOW in 2024 and broke every scraper that hardcoded the old IDs.
 
@@ -116,4 +116,4 @@ If any of the buyer categories above describes your work, drop a free trial test
 If you want to follow what each actor earns at first activation, the monthly digest goes out via [@ai_in_it on X](https://x.com/ai_in_it) and the [apify-actor-portfolio repo](https://github.com/the-ai-entrepreneur-ai-hub/apify-actor-portfolio).
 
 George
-[george.the.developer on Apify](https://apify.com/george-the-developer)
+[george.the.developer on Apify](https://apify.com/george.the.developer?fpr=bbquoh)

@@ -68,11 +68,11 @@ Fifth is academic and government source ingestion. arXiv abstracts, PubMed entri
 
 ## Links
 
-- Store: https://apify.com/george.the.developer/js-content-crawler-lite-rag
+- Store: https://apify.com/george.the.developer/js-content-crawler-lite-rag?fpr=bbquoh
 - Docs: https://github.com/the-ai-entrepreneur-ai-hub/js-content-crawler-lite-rag-docs
 - Contact: [@ai_in_it on X](https://x.com/ai_in_it)
 
 Pricing activates 2026-05-29. Until then runs are free for anyone who wants to test the schema against their URL list. Drop a sample in the Store contact form and I will return shape sanity within the day.
 
 George
-[george.the.developer on Apify](https://apify.com/george.the.developer)
+[george.the.developer on Apify](https://apify.com/george.the.developer?fpr=bbquoh)
